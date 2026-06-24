@@ -1,0 +1,7 @@
+{
+  "allow": [
+    "fs(C:\\Users\\huang\\.minimax\\sessions\\mvs_d093545dc9994a2dafb46b8b01ae972b\\workspace\\srt-summarizer/**)"
+  ],
+  "deny": [],
+  "ask": []
+}

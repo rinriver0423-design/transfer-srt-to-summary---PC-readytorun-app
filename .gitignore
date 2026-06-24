@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+workspace/srt-summarizer -main/node_modules/
+
+# Build output (retained as part of the PC-ready-to-run app)
+# workspace/srt-summarizer -main/dist/  <-- kept intentionally
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temp files
+*.tmp
+*.temp
